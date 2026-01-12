@@ -1,6 +1,6 @@
 ## Graziunamente
 
-Graziunamente é um espaço criativo pessoa.
+Graziunamente é um espaço criativo pessoal.
 Um projeto em construção onde ideias, arte e processos se misturam.
 
 ##Status
